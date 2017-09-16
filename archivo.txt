@@ -1,3 +1,4 @@
 Estoy en la rama master
 Estoy en la rama conflicto
 Arreglé un conflicto manualmente
+Estoy pusheando un cambio a GitHub
